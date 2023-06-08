@@ -2,6 +2,7 @@
   "name": "testing",
   "version": "2.0.0",
   "description": "this is an amazing project",
+  "engines": { "node": ">=14.20.1" },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
