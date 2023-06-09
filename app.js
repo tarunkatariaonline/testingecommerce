@@ -1,4 +1,4 @@
-import express from "npm:express@4.18";
+import express from "https://esm.sh/express@4.18.2";
 const app = express()
 const port = 3000||process.env.PORT
 
