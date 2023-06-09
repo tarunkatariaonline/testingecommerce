@@ -4,6 +4,7 @@
   "description": "this is an amazing project",
   "engines": { "node": ">=14.20.1" },
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
